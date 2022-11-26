@@ -2,6 +2,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+
 class Board {
     private final int ROWS = 10;
     private final int COLS = 10;
